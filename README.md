@@ -1,6 +1,7 @@
 # Project Diva 2nd PPSSPP HD Texture Pack
 Project Diva 2nd PSP HD Texture Pack<br>
-Only tested with the English Patched ISO<br><br>
+Compatible with English Patched 2nd and 2nd#<br>
+For it to work on 2nd# you need to rename the main folder to NPJH50475<br><br>
 What has been done:<br>
 Startup Logos<br>
 Title Screen<br>
