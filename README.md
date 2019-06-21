@@ -8,8 +8,9 @@ Title Screen<br>
 Load Screens<br>
 Song Title Cards<br>
 Noteskin taken from Dreamy Theater 2nd<br>
-Gameplay UI taken from Dreamy Theater 2nd<br><br>
+Gameplay UI taken from Dreamy Theater 2nd<br>
 Results Screen<br>
+Some parts of the menu<br><br>
 What needs to be done:<br>
 Everything else<br><br>
 work in progress nothing is final
