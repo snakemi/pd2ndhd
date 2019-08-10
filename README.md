@@ -1,8 +1,8 @@
 # Project Diva 2nd PPSSPP HD Texture Pack
 Compatible with English Patched 2nd and 2nd#<br>
 <h1>Instructions for use</h1><br>
-Copy "ULJM05681" to PPSSPP/PSP/memstick/TEXTURES<br>
-For it to work on 2nd# you need to rename ULJM05681 to NPJH50475<br>
+Download as ZIP and drag and drop to PPSSPP (only available on the latest PPSSPP commits as of writing this)<br>
+or paste git contents to memstick\PSP\TEXTURES\ULJM05681 or NPJH50475<br>
 Some elements aren't made for 2nd# yet<br><br>
 <h1>What has been done:</h1><br>
 Startup Logos<br>
